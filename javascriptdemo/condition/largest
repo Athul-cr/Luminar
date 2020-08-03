@@ -1,0 +1,11 @@
+var num1 = prompt("enter the number");
+var num2 = prompt("enter the number");
+if num>num2{
+ alert(num1+"is grater")
+           }
+else if num2>num1{
+    alert(num2+"is greater ")
+        }
+else{
+alert("both are equall")
+    }
